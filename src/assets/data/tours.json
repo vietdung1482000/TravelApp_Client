@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Canada",
+    "city": "Ottawa",
+    "address": "Somewhere in Canada",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Washington, D.C., American",
+    "city": "Washington, D.C.",
+    "address": "Somewhere in American",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Beautifull Snowy Mountains, Greek",
+    "city": "A-ten",
+    "address": "Somewhere in Greek",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Am-xtéc-đam, Netherlands",
+    "city": "Am-xtéc-đam",
+    "address": "Somewhere in Netherlands",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Xtốc-khôm, Sweden",
+    "city": "Xtốc-khôm",
+    "address": "Somewhere in Sweden",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Switzerland",
+    "city": "Switzerland",
+    "address": "Somewhere in Switzerland",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Roma, Italy",
+    "city": "Roma",
+    "address": "Somewhere in Italy",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Portugal",
+    "city": "Lisbon",
+    "address": "Somewhere in Portugal",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "BecLin, Germany",
+    "city": "BecLin",
+    "address": "Somewhere in Germany",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Pari, France",
+    "city": "Pari",
+    "address": "Somewhere in France",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  }
+]
