@@ -51,8 +51,9 @@
 /* mobile */
 @media only screen and (max-width: 992px) {
     .logo img {
-        width: 80%;
+        width: 20%;
     }
+
     .navigation {
         width: 100%;
         height: 100%;
@@ -81,7 +82,7 @@
         display: block;
     }
 
-    .mobile_menu{
+    .mobile_menu {
         display: block;
     }
 }
@@ -89,6 +90,10 @@
 
 @media only screen and (max-width: 768px) {
     .logo img {
-        width: 40%;
+        width: 45%;
+    }
+
+    .menu {
+        width: calc(100% - 50%);
     }
 }

@@ -30,15 +30,14 @@ const Booking = ({ tour, avgRating }) => {
 
   const handleClick = async (e) => {
     e.preventDefault();
-    console.log("booking", booking);
-
+    console.log(booking)
     try {
       if (!user || user === undefined || user === null) {
         return alert("PLease sign in");
       }
 
       const res = await fetch(`${BASE_URL}/booking`, {
-        method: 'post',
+        method: "post",
         headers: {
           "content-type": "application/json",
         },
